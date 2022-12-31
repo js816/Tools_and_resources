@@ -2,7 +2,7 @@
 
 * **Regular Expressions**
   * [Regex 101](https://regex101.com/)
-  * <regexr.com>
+  * [regexr.com](https://regexr.com/)
   
 * **SQL**
   * [SQL Fiddle](http://sqlfiddle.com/)

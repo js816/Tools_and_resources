@@ -6,6 +6,7 @@
   
 * **SQL**
   * [SQL Fiddle](http://sqlfiddle.com/)
+  * [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) - entity–relationship diagrams, schema
 
 * **GitHub Markdown**
   * [GitHub documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

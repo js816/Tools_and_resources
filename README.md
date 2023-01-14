@@ -2,6 +2,10 @@
 
 * **Adobe Analytics**
   * [Health Dashboard tool](http://adobe.ly/aahealth)
+  
+* **Web Developer Tools**
+  * [Omnibug](https://chrome.google.com/webstore/detail/omnibug/bknpehncffejahipecakbfkomebjmokl?hl=en)
+  * [Charles Proxy](https://www.charlesproxy.com/)
 
 * **Regular Expressions**
   * [Regex 101](https://regex101.com/)

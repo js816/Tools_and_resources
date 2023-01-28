@@ -20,8 +20,8 @@
   * [SQL Fiddle](http://sqlfiddle.com/)
   * [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) - entity–relationship diagrams, schema
   * [SQL Zoo](https://sqlzoo.net)
-  
- * **Mock Data Generator**
+
+* **Mock Data Generator**
   * [Mockaroo](https://www.mockaroo.com/) - generate mock datasets, APIs
 
 * **Python**

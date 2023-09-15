@@ -4,6 +4,9 @@
   * [Health Dashboard tool](http://adobe.ly/aahealth)
   * [Adobe Data Collection / Launch Overview](https://experienceleague.adobe.com/docs/experience-platform/collection/home.html%3Flang%3Dja#)
   
+* **Adobe Customer Journey Analytics**
+  * [Videos & tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview.html?lang=en)
+
 * **Web Developer Tools**
   * [Omnibug](https://chrome.google.com/webstore/detail/omnibug/bknpehncffejahipecakbfkomebjmokl?hl=en)
   * [Charles Proxy](https://www.charlesproxy.com/)
